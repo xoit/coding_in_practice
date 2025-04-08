@@ -1,13 +1,13 @@
 ## ROI
 
 - Lecture: 30 - 60 minutes
-- Learn the concept of version control and know the most used platform
+	- Learn the concept of version control and know the most used platform
 - Exercise: 30 - 60+ minutes
-- Sign up GitHub, Create repository, and Check In/Out
+	- Sign up GitHub, Create repository, and Check In/Out
 - Extension: 60+ minutes
-- Organize git modules
+	- Organize git modules
 - Advance: 60+ minutes
-- Install gitlab and set up for personal use
+	- Install gitlab and set up for personal use
 
 ## Why Version Control
 
